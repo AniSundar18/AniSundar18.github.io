@@ -18,24 +18,12 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 # Publications 
 
 ## [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
-
-<div style="display: flex; align-items: center;">
-  <img src="kd_teaser.png" alt="Paper Image" style="margin-right: 20px; width: 200px; height: 100px;" />
-  <div>
-    <b>Venue:</b> NeurIPS 2023<br>
-    <b>Authors:</b> Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
-  </div>
-</div>
+**Venue:** NeurIPS 2023  
+**Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
 
 ## [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
-
-<div style="display: flex; align-items: center;">
-  <img src="kd_teaser.png" alt="Paper Image" style="margin-right: 20px; width: 200px; height: 100px;" />
-  <div>
-    <b>Venue:</b> Frontiers in Big Data (Volume 6), 2023<br>
-    <b>Authors:</b> Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
-  </div>
-</div>
+**Venue:** Frontiers in Big Data (Volume 6), 2023  
+**Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
 
 * indicates equal contribution.
 
