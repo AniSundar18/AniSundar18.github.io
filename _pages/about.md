@@ -17,13 +17,25 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 
 # Publications 
 
-## <img src="[https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link]" alt="Paper Image" style="float:left; margin-right:10px;" /> [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
-**Venue:** NeurIPS 2023  
-**Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
+## [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
 
-## <img src="[https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link]" alt="Paper Image" style="float:left; margin-right:10px;" />  [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
-**Venue:** Frontiers in Big Data (Volume 6), 2023  
-**Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
+<div style="display: flex; align-items: center;">
+  <img src="images/kd_teaser.png" alt="Paper Image" style="margin-right: 20px; width: 150px; height: 200px;" />
+  <div>
+    <b>Venue:</b> NeurIPS 2023<br>
+    <b>Authors:</b> Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
+  </div>
+</div>
+
+## [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
+
+<div style="display: flex; align-items: center;">
+  <img src="images/kd_teaser.png" alt="Paper Image" style="margin-right: 20px; width: 150px; height: 200px;" />
+  <div>
+    <b>Venue:</b> Frontiers in Big Data (Volume 6), 2023<br>
+    <b>Authors:</b> Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
+  </div>
+</div>
 
 * indicates equal contribution.
 
