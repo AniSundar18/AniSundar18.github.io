@@ -17,30 +17,30 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 # Publications
 
 ## [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
-- **Venue:** NeurIPS 2023
-- **Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
+**Venue:** NeurIPS 2023  
+**Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
 
 ## [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
-- **Venue:** Frontiers in Big Data (Volume 6), 2023
-- **Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
+**Venue:** Frontiers in Big Data (Volume 6), 2023  
+**Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
 
-### * indicates equal contribution.
+* indicates equal contribution.
 
 # Teaching Experience
 
 ## [COMP SCI 839: Learning Based Image Synthesis](https://sites.google.com/view/cs839fall2023lbism)
-- **Position:** Teaching Assistant 
-- **Semester:** Fall 2023
-- Graduate-level course on the principles behind the generative modeling of images. Covers fundamentals and applications of generative models like GANs, VAEs, and Diffusion Models.
+**Position:** Teaching Assistant  
+**Semester:** Fall 2023  
+Graduate-level course on the principles behind the generative modeling of images. Covers fundamentals and applications of generative models like GANs, VAEs, and Diffusion Models.
 
 ## [COMP SCI 220: Data Science Programming I](https://guide.wisc.edu/courses/comp_sci/)
-- **Position:** Teaching Assistant 
-- **Semester:** Spring 2023
-- Undergraduate-level course covering the fundamentals of Python for data science. 
+**Position:** Teaching Assistant  
+**Semester:** Spring 2023  
+Undergraduate-level course covering the fundamentals of Python for data science.
 
 ## [COMP SCI 200: Programming I](https://guide.wisc.edu/courses/comp_sci/)
-- **Position:** Teaching Assistant 
-- **Semester:** Fall 2022
-- Undergraduate-level course introducing the basics of programming with Java.
+**Position:** Teaching Assistant  
+**Semester:** Fall 2022  
+Undergraduate-level course introducing the basics of programming with Java.
 
 
