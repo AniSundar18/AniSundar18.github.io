@@ -14,3 +14,18 @@ As someone deeply interested in the field of deep learning, I wish to solve prob
 
 I am currently conducting my research under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I'm fortunate to have the mentorship of [Utkarsh Ojha](https://utkarshojha.github.io/), [Haotian Liu](https://hliu.cc/) and [Yuheng Li](https://yuheng-li.github.io/). My focus lies in comprehensively exploring the intricacies of the field. The primary focus is on deciphering principles that hold the potential to contribute meaningfully to the community's understanding, offering valuable insights that can enhance our collective knowledge within the academic landscape.
 
+# Publications
+
+## What Knowledge Gets Distilled in Knowledge Distillation?
+- **Venue:** NeurIPS 2023
+- **Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
+- [Link](https://arxiv.org/abs/2205.16004)
+
+## Ki-Cook: clustering multimodal cooking representations through knowledge-infused learning
+- **Venue:** Frontiers in Big Data (Volume 6)
+- **Authors:** Revathy Venkataramanan1, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
+- **Year:** 2023
+- [Link](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
+
+### * indicates equal contribution.
+
