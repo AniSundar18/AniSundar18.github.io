@@ -14,13 +14,14 @@ As someone deeply interested in the field of deep learning, I wish to solve prob
 
 I am currently conducting my research under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I'm fortunate to have the mentorship of [Utkarsh Ojha](https://utkarshojha.github.io/), [Haotian Liu](https://hliu.cc/) and [Yuheng Li](https://yuheng-li.github.io/). My focus lies in comprehensively exploring the intricacies of the field. The primary focus is on deciphering principles that hold the potential to contribute meaningfully to the community's understanding, offering valuable insights that can enhance our collective knowledge within the academic landscape.
 
-# Publications
 
-## <img src="[https://example.com/paper1_image.jpg](https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link)" alt="Paper Image" style="float:left; margin-right:10px;" /> [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
+# Publications 
+
+## <img src="[https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link]" alt="Paper Image" style="float:left; margin-right:10px;" /> [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
 **Venue:** NeurIPS 2023  
 **Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
 
-## <img src="[https://example.com/paper1_image.jpg](https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link)" alt="Paper Image" style="float:left; margin-right:10px;" />  [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
+## <img src="[https://drive.google.com/file/d/1xGybi7l6oWCSrA9QFzPTBppej7u4KzsX/view?usp=share_link]" alt="Paper Image" style="float:left; margin-right:10px;" />  [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
 **Venue:** Frontiers in Big Data (Volume 6), 2023  
 **Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
 
