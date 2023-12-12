@@ -16,33 +16,31 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 
 # Publications
 
-## What Knowledge Gets Distilled in Knowledge Distillation?
+## [What Knowledge Gets Distilled in Knowledge Distillation?](https://arxiv.org/abs/2205.16004)
 - **Venue:** NeurIPS 2023
 - **Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
-- [Link](https://arxiv.org/abs/2205.16004)
 
-## Ki-Cook: clustering multimodal cooking representations through knowledge-infused learning
-- **Venue:** Frontiers in Big Data (Volume 6)
-- **Authors:** Revathy Venkataramanan1, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
-- **Year:** 2023
-- [Link](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
+## [Ki-Cook: Clustering Multimodal Cooking Representations through Knowledge-Infused Learning](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
+- **Venue:** Frontiers in Big Data (Volume 6), 2023
+- **Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
 
 ### * indicates equal contribution.
 
 # Teaching Experience
-## COMP SCI 839: Learning Based Image Synthesis
+
+## [COMP SCI 839: Learning Based Image Synthesis](https://sites.google.com/view/cs839fall2023lbism)
 - **Position:** Teaching Assistant 
 - **Semester:** Fall 2023
-- Graduate level course about principles behind the generative modeling of images. Course covers both the fundamentals and applications behind interesting generative models such as GAN's, VAE's and Diffusion Models. More information can be found [here](https://sites.google.com/view/cs839fall2023lbism)
+- Graduate-level course on the principles behind the generative modeling of images. Covers fundamentals and applications of generative models like GANs, VAEs, and Diffusion Models.
 
-## COMP SCI 220: Data Science Programming I
+## [COMP SCI 220: Data Science Programming I](#)
 - **Position:** Teaching Assistant 
 - **Semester:** Spring 2023
-- Undergraduate level course about the fundamentals of Python for data science. 
+- Undergraduate-level course covering the fundamentals of Python for data science. 
 
-
-## COMP SCI 200: Programming I
+## [COMP SCI 200: Programming I](#)
 - **Position:** Teaching Assistant 
 - **Semester:** Fall 2022
-- Undergraduate level course about the basics of programming with Java.
+- Undergraduate-level course introducing the basics of programming with Java.
+
 
