@@ -11,4 +11,4 @@
 - **Year:** 2023
 - [Link](https://www.frontiersin.org/articles/10.3389/fdata.2023.1200840/full)
 
-#_ * indicates equal contribution.
+ * indicates equal contribution.
