@@ -33,12 +33,12 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 - **Semester:** Fall 2023
 - Graduate-level course on the principles behind the generative modeling of images. Covers fundamentals and applications of generative models like GANs, VAEs, and Diffusion Models.
 
-## [COMP SCI 220: Data Science Programming I](#)
+## [COMP SCI 220: Data Science Programming I](https://guide.wisc.edu/courses/comp_sci/)
 - **Position:** Teaching Assistant 
 - **Semester:** Spring 2023
 - Undergraduate-level course covering the fundamentals of Python for data science. 
 
-## [COMP SCI 200: Programming I](#)
+## [COMP SCI 200: Programming I](https://guide.wisc.edu/courses/comp_sci/)
 - **Position:** Teaching Assistant 
 - **Semester:** Fall 2022
 - Undergraduate-level course introducing the basics of programming with Java.
