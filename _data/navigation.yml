@@ -1,11 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-    
-  - title: "Teaching Experience"
-    url: /teaching/ 
-
   - title: "CV"
     url: /files/MyCV.pdf
     
