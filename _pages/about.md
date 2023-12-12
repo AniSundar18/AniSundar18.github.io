@@ -24,7 +24,7 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 **Venue:** Frontiers in Big Data (Volume 6), 2023  
 **Authors:** Revathy Venkataramanan, Swati Padhee, Saini Rohan Rao, Ronak Kaoshik, **Anirudh Sundara Rajan**, Amit Sheth
 
-* * indicates equal contribution.
+### * indicates equal contribution.
 
 # Teaching Experience
 
