@@ -29,3 +29,20 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 
 ### * indicates equal contribution.
 
+# Teaching Experience
+## COMP SCI 839: Learning Based Image Synthesis
+- **Position:** Teaching Assistant 
+- **Semester:** Fall 2023
+- Graduate level course about principles behind the generative modeling of images. Course covers both the fundamentals and applications behind interesting generative models such as GAN's, VAE's and Diffusion Models. More information can be found [here](https://sites.google.com/view/cs839fall2023lbism)
+
+## COMP SCI 220: Data Science Programming I
+- **Position:** Teaching Assistant 
+- **Semester:** Spring 2023
+- Undergraduate level course about the fundamentals of Python for data science. 
+
+
+## COMP SCI 200: Programming I
+- **Position:** Teaching Assistant 
+- **Semester:** Fall 2022
+- Undergraduate level course about the basics of programming with Java.
+
