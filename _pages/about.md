@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Hi there!, I'm Anirudh!
 
 I am currently pursuing a Master's in Computer Science at the University of Wisconsin-Madison. 
 
