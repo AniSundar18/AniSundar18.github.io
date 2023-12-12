@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anirudh Sundara Rajan"
+  avatar           : "mypassprof.png"
   bio              : "Graduate Student at University of Wisconsin-Madison"
   location         : "Madison, Wisconsin"
   employer         :
