@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Master's in Computer Science at the University of Wisconsin-Madison. 
+I am currently pursuing my studies in Computer Science at the University of Wisconsin-Madison. 
 
 As someone deeply interested in the field of deep learning, I wish to solve problems in the field in a principled manner. Currently, my work revolves around generative modeling, with a focus on exploring Diffusion Models for image generation. 
 
