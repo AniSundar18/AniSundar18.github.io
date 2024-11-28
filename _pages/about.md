@@ -9,10 +9,15 @@ redirect_from:
 
 I am currently pursuing my studies in Computer Science at the University of Wisconsin-Madison. 
 
-As someone deeply interested in the field of deep learning, I wish to solve problems in the field in a principled manner. Currently, my work revolves around generative modeling, with a focus on exploring Diffusion Models for image generation. 
+As someone deeply interested in the field of deep learning, I wish to solve problems in the field in a principled manner. Currently, my work revolves around the reliable detection of synthetic images, with a focus on Latent Diffusion Models. In the past, I have worked on image editing using diffusion models, Knowledge Distillation and Knowledge-Infused Representation Learning.
 
 I am currently conducting my research under the supervision of Prof. [Yong Jae Lee](https://pages.cs.wisc.edu/~yongjaelee/). I'm fortunate to have the mentorship of [Utkarsh Ojha](https://utkarshojha.github.io/), [Haotian Liu](https://hliu.cc/) and [Yuheng Li](https://yuheng-li.github.io/). My focus lies in comprehensively exploring the intricacies of the field. The primary focus is on deciphering principles that hold the potential to contribute meaningfully to the community's understanding, offering valuable insights that can enhance our collective knowledge within the academic landscape.
 
+# Preprints
+
+## On the Effectiveness of Dataset Alignment for Fake Image Detection
+- **Authors:** **Anirudh Sundara Rajan***, Utkarsh Ojha*, Jedidiah Schloesser, Yong Jae Lee
+- [Link](https://arxiv.org/abs/2410.11835) [Project Page](https://anisundar18.github.io/AlignedForensics/)
 
 # Publications 
 
