@@ -16,7 +16,7 @@ I am currently conducting my research under the supervision of Prof. [Yong Jae L
 # Preprints
 
 ## [On the Effectiveness of Dataset Alignment for Fake Image Detection](https://anisundar18.github.io/AlignedForensics/)  
-[**Project Page**](https://anisundar18.github.io/AlignedForensics/) | [**arXiv**](https://arxiv.org/abs/2410.11835)  
+[**Project Page**](https://anisundar18.github.io/AlignedForensics/) | [**arXiv**](https://arxiv.org/abs/2410.11835)  |  [**Code**](https://github.com/AniSundar18/AlignedForensics)
 
 - **Authors:** **Anirudh Sundara Rajan** *, Utkarsh Ojha *, Jedidiah Schloesser, Yong Jae Lee  
 
