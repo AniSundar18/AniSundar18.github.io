@@ -1,5 +1,9 @@
 # Publications
 
+## On the Effectiveness of Dataset Alignment for Fake Image Detection
+- **Authors:** **Anirudh Sundara Rajan***, Utkarsh Ojha*, Jedidiah Schloesser, Yong Jae Lee
+- [Link](https://arxiv.org/abs/2410.11835)
+
 ## What Knowledge Gets Distilled in Knowledge Distillation?
 - **Venue:** NeurIPS 2023
 - **Authors:** Utkarsh Ojha*, Yuheng Li*, **Anirudh Sundara Rajan***, Yingyu Liang, Yong Jae Lee
